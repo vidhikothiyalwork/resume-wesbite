@@ -281,6 +281,8 @@ article:nth-of-type(3) {
 .contact {
   background: #e2e8f0;
   text-align: center;
+  padding-top: 30px;
+  padding-bottom: 40px;
 }
 
 .contact a {
@@ -337,4 +339,5 @@ footer {
   .hero h1 {
     font-size: 32px;
   }
+
 }

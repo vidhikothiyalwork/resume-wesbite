@@ -132,6 +132,25 @@ body {
   position: relative;
   overflow: hidden;
 }
+.contact h2 {
+  margin-bottom: 12px;
+}
+.contact p {
+  margin: 6px 0;
+  font-size: 15px;
+  color: #334155;
+}
+
+.contact a {
+  color: #2563eb;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.contact a:hover {
+  text-decoration: underline;
+}
+
 
 /* Animated underline */
 .section h2::after {
@@ -341,3 +360,4 @@ footer {
   }
 
 }
+
